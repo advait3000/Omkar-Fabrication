@@ -15,7 +15,7 @@ body{
 	font-size: 8px;
 }
 .container{           /*class defined for applying properties to defined class*/
-	width:100%;     /*width of container class is defined*/
+	width:1250px;     /*width of container class is defined*/
 	margin:0 auto;    /*margin of container is set to zero and aligned to center*/
 }
 .container hr{
