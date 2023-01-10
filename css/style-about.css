@@ -117,9 +117,6 @@ body{
 }
 @media screen and (max-width:400px) {
 	#container{
-		width: 50%;
-	}
-	.scroll-left h1 {
-		font-size: 100px;
+		width: fit;
 	}
 }
